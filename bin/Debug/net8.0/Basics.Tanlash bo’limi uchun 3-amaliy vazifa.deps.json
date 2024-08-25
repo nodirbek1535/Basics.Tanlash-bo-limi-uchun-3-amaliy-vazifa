@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Basics.Tanlash bo’limi uchun 3-amaliy vazifa/1.0.0": {
+        "runtime": {
+          "Basics.Tanlash bo’limi uchun 3-amaliy vazifa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Basics.Tanlash bo’limi uchun 3-amaliy vazifa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
